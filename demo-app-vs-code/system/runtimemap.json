@@ -1,0 +1,328 @@
+{
+  "system": {
+    "sys_user_role": true,
+    "agent_assist_recommendation": true,
+    "asmt_metric": true,
+    "asmt_signature": true,
+    "sys_atf_step_config": true,
+    "sys_atf_step": true,
+    "sys_client_extension_point": true,
+    "sys_script_client": true,
+    "dl_u_priority": true,
+    "sys_ui_extension_point": true,
+    "sys_ui_policy": true,
+    "sys_ui_script": true,
+    "connect_action": true,
+    "content_block": true,
+    "content_block_detail": true,
+    "content_block_programmatic": true,
+    "content_block_static": true,
+    "content_css": true,
+    "cxs_table_config": true,
+    "sys_relationship": true,
+    "sys_db_object": true,
+    "sys_email_client_template": true,
+    "sys_email_canned_message": true,
+    "sys_recipient_qualifier": true,
+    "sys_ui_context_menu": true,
+    "sys_embedded_help_content": true,
+    "sys_ui_list_control": true,
+    "cmn_map_page": true,
+    "cmn_schedule_page": true,
+    "sys_ui_style": true,
+    "cmn_timeline_page": true,
+    "sys_ui_macro": true,
+    "sys_ui_page": true,
+    "sysrule_view": true,
+    "sys_embedded_tour_step": true,
+    "scheduled_data_import": true,
+    "sys_ws_operation": true,
+    "sys_web_service": true,
+    "sys_transform_map": true,
+    "mid_selector_override": true,
+    "ecc_agent_capability": true,
+    "ecc_agent_capability_value_test": true,
+    "ecc_agent_property": true,
+    "ecc_agent_script_include": true,
+    "sys_script_ajax": true,
+    "process_step_approval": true,
+    "bsm_action": true,
+    "ci_identifier": true,
+    "discovery_classy": true,
+    "clone_cleanup_script": true,
+    "csm_field_map": true,
+    "csm_table_map": true,
+    "sys_declarative_action_assignment": true,
+    "diagrammer_action": true,
+    "sys_dictionary": true,
+    "discovery_port_probe": true,
+    "sys_ui_title": true,
+    "sys_transform_entry": true,
+    "sys_impex_map": true,
+    "sys_installation_exit": true,
+    "sys_ui_list_script_client": true,
+    "sys_ui_list_script_server": true,
+    "live_table_notification": true,
+    "mtg_definition": true,
+    "sys_navigator": true,
+    "sys_nav_link": true,
+    "pwd_cred_store": true,
+    "pwd_extension_type": true,
+    "discovery_probes": true,
+    "expert_panel_template": true,
+    "sysauto_query_builder": true,
+    "sysauto": true,
+    "sys_service_api": true,
+    "sysevent_email_style": true,
+    "chg_soc_style_rule_core": true,
+    "sys_listener_detail": true,
+    "sys_transform_script": true,
+    "item_option_new": true,
+    "sys_home": true,
+    "expert_panel_transition": true,
+    "expert_panel": true,
+    "expert_ui_policy": true,
+    "sys_app_module": true,
+    "sys_ui_module": true,
+    "sys_script_email": true,
+    "sysevent_email_template": true,
+    "sysevent_in_email_action": true,
+    "sysevent_email_action": true,
+    "sys_push_notif_act_script": true,
+    "sys_push_notif_msg_content": true,
+    "trigger_rule": true,
+    "sys_rest_message": true,
+    "scheduled_data_export": true,
+    "sys_soap_message_function": true,
+    "sys_soap_message": true,
+    "pa_scripts": true,
+    "pc_vendor_cat_item": true,
+    "sys_properties_category": true,
+    "metric_definition": true,
+    "sysauto_report": true,
+    "cmn_relative_duration": true,
+    "risk_conditions": true,
+    "cmn_schedule": true,
+    "sys_script": true,
+    "sys_extension_point": true,
+    "sys_script_fix": true,
+    "sys_processor": true,
+    "sysauto_script": true,
+    "sysevent_script_action": true,
+    "sys_script_include": true,
+    "sys_ui_action": true,
+    "sc_ic_aprvl_type_defn_staging": true,
+    "catalog_script_client": true,
+    "sc_cat_item": true,
+    "catalog_ui_policy": true,
+    "sc_cat_item_option": true,
+    "sc_cat_item_guide": true,
+    "sc_cat_item_producer": true,
+    "sc_ic_task_assign_defn_staging": true,
+    "user_criteria": true,
+    "sysrule_escalate": true,
+    "sp_ng_template": true,
+    "sp_instance": true,
+    "sp_search_source": true,
+    "sp_page": true,
+    "sp_portal": true,
+    "sp_css": true,
+    "sp_theme": true,
+    "sp_angular_provider": true,
+    "sp_widget": true,
+    "trend_definition": true,
+    "sys_ui_ng_action": true,
+    "sys_script_vtable": true,
+    "sn_templated_snip_note_template": true,
+    "sys_script_validator": true,
+    "sys_email_filter": true,
+    "sys_sg_data_item": true,
+    "sys_email_layout": true,
+    "sys_process_flow": true,
+    "sys_widgets": true,
+    "wf_element_activity": true,
+    "wf_activity_definition": true,
+    "wf_ui_policy": true
+  },
+  "Miscellaneous": {
+    "Dictionary Entries": {
+      "x_40465_demo_app_0_game_link": {
+        "sys_id": "7d4fcecc075320106cccf96d7c1ed0eb",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198977697
+      },
+      "Type": {
+        "sys_id": "1b65124207dfe0106cccf96d7c1ed0b6",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198977728
+      },
+      "Number": {
+        "sys_id": "824f0200079320106cccf96d7c1ed00d",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198977806
+      },
+      "x_40465_demo_app_0_game_genre": {
+        "sys_id": "90749ece079fe0106cccf96d7c1ed0be",
+        "sys_updated_on": "2021-04-05 10:48:41",
+        "SERVER_MOD_TIME": 1617594521000,
+        "LOCAL_MOD_TIME": 1618198977858
+      },
+      "Description": {
+        "sys_id": "53d356ce079fe0106cccf96d7c1ed0bb",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198977887
+      },
+      "URL": {
+        "sys_id": "70c5924207dfe0106cccf96d7c1ed0ba",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198977966
+      },
+      "Title": {
+        "sys_id": "9eb3d2ce079fe0106cccf96d7c1ed0e4",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198977981
+      },
+      "Active": {
+        "sys_id": "8ef4560207dfe0106cccf96d7c1ed013",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198978013
+      },
+      "Detail": {
+        "sys_id": "edb8de0607dfe0106cccf96d7c1ed05a",
+        "sys_updated_on": "2021-04-05 10:47:25",
+        "SERVER_MOD_TIME": 1617594445000,
+        "LOCAL_MOD_TIME": 1618198978422
+      },
+      "Server": {
+        "sys_id": "df4a560a07dfe0106cccf96d7c1ed008",
+        "sys_updated_on": "2021-04-05 10:47:25",
+        "SERVER_MOD_TIME": 1617594445000,
+        "LOCAL_MOD_TIME": 1618198978468
+      },
+      "Poster": {
+        "sys_id": "dc269a4207dfe0106cccf96d7c1ed012",
+        "sys_updated_on": "2021-04-05 10:47:25",
+        "SERVER_MOD_TIME": 1617594445000,
+        "LOCAL_MOD_TIME": 1618198978515
+      },
+      "Name": {
+        "sys_id": "db74120207dfe0106cccf96d7c1ed054",
+        "sys_updated_on": "2021-04-05 10:47:25",
+        "SERVER_MOD_TIME": 1617594445000,
+        "LOCAL_MOD_TIME": 1618198978547
+      },
+      "Active_cfa5964207dfe0106cccf96d7c1ed02d": {
+        "sys_id": "cfa5964207dfe0106cccf96d7c1ed02d",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198978609
+      },
+      "Active_c1351e0207dfe0106cccf96d7c1ed02f": {
+        "sys_id": "c1351e0207dfe0106cccf96d7c1ed02f",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198978658
+      },
+      "Number_cb1f4ecc075320106cccf96d7c1ed0a0": {
+        "sys_id": "cb1f4ecc075320106cccf96d7c1ed0a0",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198978689
+      },
+      "Download": {
+        "sys_id": "b4c61a8207dfe0106cccf96d7c1ed09e",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198979050
+      },
+      "Release Date": {
+        "sys_id": "bf791a8607dfe0106cccf96d7c1ed025",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198979085
+      },
+      "x_40465_demo_app_0_game_info": {
+        "sys_id": "b21f4ecc075320106cccf96d7c1ed086",
+        "sys_updated_on": "2021-04-05 10:47:24",
+        "SERVER_MOD_TIME": 1617594444000,
+        "LOCAL_MOD_TIME": 1618198979116
+      }
+    },
+    "Declarative Action Assignments": {
+      "reject": {
+        "sys_id": "56af860011932010e583363a5515f077",
+        "sys_updated_on": "2021-04-05 10:47:25",
+        "SERVER_MOD_TIME": 1617594445000,
+        "LOCAL_MOD_TIME": 1618198977759
+      },
+      "approve": {
+        "sys_id": "daaf8600d19320106f124d7e72504478",
+        "sys_updated_on": "2021-04-05 10:47:26",
+        "SERVER_MOD_TIME": 1617594446000,
+        "LOCAL_MOD_TIME": 1618198978578
+      }
+    }
+  },
+  "Navigation": {
+    "Modules": {
+      "Genres": {
+        "sys_id": "1dfbda4a07dfe0106cccf96d7c1ed0aa"
+      },
+      "Links": {
+        "sys_id": "431c128a07dfe0106cccf96d7c1ed0ae"
+      },
+      "Games": {
+        "sys_id": "8bcb1e4a07dfe0106cccf96d7c1ed0b9"
+      }
+    }
+  },
+  "Access Control": {
+    "Roles": {
+      "x_40465_demo_app_0.game_genre_user": {
+        "sys_id": "3364de8e079fe0106cccf96d7c1ed0ca"
+      }
+    }
+  },
+  "Data Model": {
+    "Tables": {
+      "Game Genre": {
+        "sys_id": "4434dace079fe0106cccf96d7c1ed075"
+      },
+      "Game Info": {
+        "sys_id": "ba1f4ecc075320106cccf96d7c1ed082"
+      },
+      "Game Link": {
+        "sys_id": "fd4fcecc075320106cccf96d7c1ed0e9"
+      }
+    }
+  },
+  "Server Development": {
+    "Script Includes": {
+      "AppConfig": {
+        "sys_id": "4fbd160e07dfe0106cccf96d7c1ed014",
+        "sys_updated_on": "2021-04-05 09:22:02",
+        "SERVER_MOD_TIME": 1617589322000,
+        "LOCAL_MOD_TIME": 1618198977919
+      },
+      "GameHelper": {
+        "sys_id": "fd4d920e07dfe0106cccf96d7c1ed00c",
+        "sys_updated_on": "2021-04-05 11:01:50",
+        "SERVER_MOD_TIME": 1617595310000,
+        "LOCAL_MOD_TIME": 1618198978406
+      },
+      "GameClientUtils": {
+        "sys_id": "eb8dd28a07dfe0106cccf96d7c1ed0fe",
+        "sys_updated_on": "2021-04-05 09:21:22",
+        "SERVER_MOD_TIME": 1617589282000,
+        "LOCAL_MOD_TIME": 1618198978484
+      }
+    }
+  }
+}
